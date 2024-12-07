@@ -7,4 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/website-arman/', // Replace 'your-repo-name' with your GitHub repository name
 });
