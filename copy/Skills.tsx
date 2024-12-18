@@ -10,7 +10,7 @@ const skills = {
     'Statistical Analysis Beginner ',
     'C Programming'
   ],
-  'Web Development Using AI Tools': [
+  'Web Development Uisng AI Tools': [
     'HTML5/CSS3',
     'JavaScript',
     'React.js',
